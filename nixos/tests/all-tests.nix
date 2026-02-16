@@ -686,6 +686,7 @@ in
   graylog = runTest ./graylog.nix;
   greetd-no-shadow = runTest ./greetd-no-shadow.nix;
   grocy = runTest ./grocy.nix;
+  groupoffice = runTest ./groupoffice.nix;
   grow-partition = runTest ./grow-partition.nix;
   grub = runTest ./grub.nix;
   guacamole-server = runTest ./guacamole-server.nix;
