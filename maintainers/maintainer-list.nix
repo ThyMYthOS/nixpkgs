@@ -26848,6 +26848,12 @@
     github = "thunze";
     githubId = 22795263;
   };
+  ThyMYthOS = {
+    name = "Manuel Stahl";
+    email = "thymythos@gmail.com";
+    github = "ThyMYthOS";
+    githubId = 4992400;
+  };
   tiagolobocastro = {
     email = "tiagolobocastro@gmail.com";
     github = "tiagolobocastro";
