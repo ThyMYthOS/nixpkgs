@@ -379,6 +379,8 @@ lib.makeScope pkgs.newScope (
 
         snuffleupagus = callPackage ../development/php-packages/snuffleupagus { };
 
+        sourceguardian = callPackage ../development/php-packages/sourceguardian-loader { };
+
         spx = callPackage ../development/php-packages/spx { };
 
         sqlsrv = callPackage ../development/php-packages/sqlsrv { };
